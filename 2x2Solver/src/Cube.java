@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class Cube {
 	
-	private char[] permutation;
+	char[] permutation;
 	public final static int NUM_SIDES = 6;
 	
 	public Cube(String cube) {
